@@ -4,11 +4,8 @@ This is a page in a children's book.  The aspect ratio should be 1:1.  There sho
 
 ## Text
 
-Olive loves dinosaurs.  He enjoys learning about geology and paleontology and what the earth was like millions of years ago.
-
 Paleontology is the scientific study of ancient life using fossilized remains.
-
-Geology is the scientific study of rocks and the processes that create them.
 
 ## Image
 
+to do
